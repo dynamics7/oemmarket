@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfigurationFile version="1">
+  <OEMStore>
+    <setting id="OEMName">Nokia collection</setting>
+    <setting id="OEMStoreName">Nokia collection</setting>
+    <setting id="OEMStoreID">Nokia</setting>
+    <setting id="OEMStoreEnabled">True</setting>
+  </OEMStore>
+</ConfigurationFile>

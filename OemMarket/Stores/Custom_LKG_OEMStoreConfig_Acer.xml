@@ -1,0 +1,8 @@
+<ConfigurationFile version="1">
+  <OEMStore>
+    <setting id="OEMName">Acer</setting>
+    <setting id="OEMStoreName">Acer Apps</setting>
+    <setting id="OEMStoreID">Acer</setting>
+    <setting id="OEMStoreEnabled">False</setting>
+  </OEMStore>
+</ConfigurationFile>

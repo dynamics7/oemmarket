@@ -1,0 +1,8 @@
+<ConfigurationFile version="1">
+  <OEMStore>
+    <setting id="OEMName">LGE</setting>
+    <setting id="OEMStoreName">LG Apps</setting>
+    <setting id="OEMStoreID">LGE</setting>
+    <setting id="OEMStoreEnabled">True</setting>
+  </OEMStore>
+</ConfigurationFile>

@@ -1,0 +1,8 @@
+<ConfigurationFile version="1">
+  <OEMStore>
+    <setting id="OEMName">ZTE</setting>
+    <setting id="OEMStoreName">ZTE Apps</setting>
+    <setting id="OEMStoreID">ZTE</setting>
+    <setting id="OEMStoreEnabled">False</setting>
+  </OEMStore>
+</ConfigurationFile>

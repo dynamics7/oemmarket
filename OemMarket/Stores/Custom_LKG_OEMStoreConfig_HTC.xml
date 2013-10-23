@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfigurationFile version="1">
+  <OEMStore>
+    <setting id="OEMName">HTC Apps</setting>
+    <setting id="OEMStoreName">HTC Apps</setting>
+    <setting id="OEMStoreID">HTC</setting>
+    <setting id="OEMStoreEnabled">True</setting>
+  </OEMStore>
+</ConfigurationFile>

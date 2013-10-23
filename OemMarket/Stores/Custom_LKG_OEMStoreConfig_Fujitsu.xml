@@ -1,0 +1,8 @@
+<ConfigurationFile version="1">
+  <OEMStore>
+    <setting id="OEMName">Fujitsu</setting>
+    <setting id="OEMStoreName">Fujitsu Apps</setting>
+    <setting id="OEMStoreID">Fujitsu</setting>
+    <setting id="OEMStoreEnabled">False</setting>
+  </OEMStore>
+</ConfigurationFile>

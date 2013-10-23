@@ -1,0 +1,8 @@
+<ConfigurationFile version="1">
+  <OEMStore>
+    <setting id="OEMName">Dell</setting>
+    <setting id="OEMStoreName">Dell Apps</setting>
+    <setting id="OEMStoreID">Dell</setting>
+    <setting id="OEMStoreEnabled">False</setting>
+  </OEMStore>
+</ConfigurationFile>

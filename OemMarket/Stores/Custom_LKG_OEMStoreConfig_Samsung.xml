@@ -1,0 +1,8 @@
+<ConfigurationFile version="1">
+  <OEMStore>
+    <setting id="OEMName">SAMSUNG</setting>
+    <setting id="OEMStoreName">Samsung Zone</setting>
+    <setting id="OEMStoreID">SAMSUNG</setting>
+    <setting id="OEMStoreEnabled">True</setting>
+  </OEMStore>
+</ConfigurationFile>
